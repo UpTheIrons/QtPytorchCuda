@@ -7,7 +7,7 @@ Output sample:
 0.3136  0.8220  0.6841
 0.4798  0.9717  0.2883
 [ CUDAFloatType{3,3} ]
-Press <RETURN> to close this window...
+
 
 References:
 https://radicalrafi.github.io/posts/pytorch-cpp-intro/
